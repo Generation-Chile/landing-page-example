@@ -1,16 +1,16 @@
-!["Agencia de viajes"](https://res.cloudinary.com/dh6ipg8bj/image/upload/v1725631713/clases-ensenanza/Captura_mxlctx.jpg)
+![" Fullstack Fighters"](https://res.cloudinary.com/dh6ipg8bj/image/upload/v1725631713/clases-ensenanza/Captura_mxlctx.jpg)
 
 
-[Link del proyecto en vivo ](https://josegermanx.github.io/agencia-de-viajes/)
-# Agencia de Viajes
+[Link del proyecto en vivo ](https://josegermanx.github.io/fullstack-fighters/)
+# Fullstack Fighters
 
-Este repositorio es un proyecto de ejemplo que tiene como objetivo enseñar conceptos básicos de HTML, CSS y JavaScript en el contexto de una agencia de viajes.
+Este repositorio es un proyecto de ejemplo que tiene como objetivo enseñar conceptos básicos de HTML, CSS y JavaScript en el contexto de una landing page.
 
 ## Contenido
 
 El repositorio contiene los siguientes archivos y carpetas:
 
-- `index.html`: Archivo principal que muestra la página de inicio de la agencia de viajes.
+- `index.html`: Archivo principal que muestra la página de inicio de la landing page.
 - `styles.css`: Archivo CSS que contiene los estilos para darle formato a la página.
 - `script.js`: Archivo JavaScript que contiene la lógica para interactuar con la página.
 
