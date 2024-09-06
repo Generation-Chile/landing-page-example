@@ -1,4 +1,4 @@
-![" Fullstack Fighters"](https://res.cloudinary.com/dh6ipg8bj/image/upload/v1725631713/clases-ensenanza/Captura_mxlctx.jpg)
+![" Fullstack Fighters"](https://res.cloudinary.com/dh6ipg8bj/image/upload/v1725632255/clases-ensenanza/Captura_ydixbh.jpg)
 
 
 [Link del proyecto en vivo ](https://josegermanx.github.io/fullstack-fighters/)
