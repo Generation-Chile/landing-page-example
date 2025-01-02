@@ -1,8 +1,8 @@
-![" Fullstack Fighters"](https://res.cloudinary.com/dh6ipg8bj/image/upload/v1725632255/clases-ensenanza/Captura_ydixbh.jpg)
+![" Fullstack Developers"](https://res.cloudinary.com/dh6ipg8bj/image/upload/v1735823980/Screenshot_2025-01-02_101838_m8hees.png)
 
 
-[Link del proyecto en vivo ](https://josegermanx.github.io/fullstack-fighters/)
-# Fullstack Fighters
+[Link del proyecto en vivo ](https://generation-chile.github.io/landing-page-example/)
+# Fullstack Developer
 
 Este repositorio es un proyecto de ejemplo que tiene como objetivo enseñar conceptos básicos de HTML, CSS y JavaScript en el contexto de una landing page.
 
